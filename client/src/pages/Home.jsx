@@ -27,7 +27,7 @@ const Home = () => {
           <motion.div className='home-content' {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className='head-text'>
-                LET'S <br className='xl:block hidden'/> DO IT.
+                MAGIC<br className='xl:block hidden'/>T-SHIRT.
               </h1>
             </motion.div>
             <motion.div
@@ -35,10 +35,7 @@ const Home = () => {
               className='flex flex-col gap-5'
             >
               <p className='max-w-md font-normal text-gray-600 text base'>
-                Create your unique and exclusive shirt with our
-                brand-new 3D
-                  customization tool. <strong>Unleash your
-                  imagination</strong>{" "} and define your won style.
+              Create a truly unique shirt that reflects your personality with our innovative 3D customization tool. <br></br><strong>Let your imagination run wild</strong>{" "} and make it yours.
               </p>
 
               <CustomButton 
